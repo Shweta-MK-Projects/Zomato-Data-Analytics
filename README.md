@@ -20,7 +20,7 @@ Zomato-Data-Analytics/
 │   └── dashboard2.png
 ```
 
-🔍 Project Overview
+# 🔍 Project Overview
 
 This project analyzes Zomato food delivery data to uncover insights into customer behavior, restaurant performance, and sales trends. Using SQL, Excel (Power Query), and Power BI, raw data is transformed into meaningful business insights.
 
